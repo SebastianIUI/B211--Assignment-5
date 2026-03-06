@@ -8,12 +8,12 @@ README FILE:
 Purpose: The purpose of this assingment is to start performing machine learning classification using Python and the Scikit Learn module, using real world data.
 
 Class Design/Implementation:
-X(Features): Numerical measurement describing the characteristics of the tumor
-Y (labels): Classification values (when its 0 it is malignant, when 1 it is benign)
-train_test_split: divides dataset into training and testing data
-fit: trains the model
-predict: Makes predictions on test data
+X(Features): Numerical measurement describing the characteristics of the tumor.
+Y (labels): Classification values (when its 0 it is malignant, when 1 it is benign).
+train_test_split: divides dataset into training and testing data.
+fit: trains the model.
+predict: Makes predictions on test data.
 
 Limitations: 
-1. The dataset is pretty small
+1. The dataset is pretty small.
 2. Accuracy cant tell us everything about the dataset.
